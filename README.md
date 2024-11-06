@@ -14,6 +14,10 @@
 
 - https://github.com/chinchang/code-blast-codemirror
 
+## Godot
+
+- https://github.com/jotson/ridiculous_coding 
+
 ## HyperTerm
 
 - https://github.com/zeit/hyperpower
